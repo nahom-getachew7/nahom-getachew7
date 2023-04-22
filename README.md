@@ -3,7 +3,6 @@
 <h3 align="center">A passionate fullstack developer</h3>
 <img align = "right" alt ="Coding" width =400 src= "https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
-<p align="left"> <a href="https://twitter.com/nahum38106224" target="blank"><img src="https://img.shields.io/twitter/follow/nahum38106224?logo=twitter&style=for-the-badge" alt="nahum38106224" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks Like react, vue && courses Like: Machine Learning**
 
@@ -14,6 +13,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DLG8_jU2m4vG-Cae4P5p02mgQgmC2W-f/view?usp=share_link](https://drive.google.com/file/d/1DLG8_jU2m4vG-Cae4P5p02mgQgmC2W-f/view?usp=share_link)
 
 - ⚡ Fun fact **I'm weirdest guy ever**
+
+<p align="left"> <a href="https://twitter.com/nahum38106224" target="blank"><img src="https://img.shields.io/twitter/follow/nahum38106224?logo=twitter&style=for-the-badge" alt="nahum38106224" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
