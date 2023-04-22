@@ -1,4 +1,4 @@
-[![MasterHead](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif)](https://rishavchanda.io)
+[![MasterHead](https://new-website-file.s3.ap-southeast-1.amazonaws.com/images/20220228/47beb9201a40a4f652206b2295f12608.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nahom Getachew</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 <img align = "right" alt ="Coding" width =400 src= "https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
