@@ -1,11 +1,7 @@
 [![MasterHead](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nahom Getachew</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<img align = "right" alt ="Coding" width =300 src= "https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahom-getachew7&label=Profile%20views&color=0e75b6&style=flat" alt="nahom-getachew7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahom-getachew7" alt="nahom-getachew7" /></a> </p>
+<img align = "right" alt ="Coding" width =400 src= "https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
 <p align="left"> <a href="https://twitter.com/nahum38106224" target="blank"><img src="https://img.shields.io/twitter/follow/nahum38106224?logo=twitter&style=for-the-badge" alt="nahum38106224" /></a> </p>
 
