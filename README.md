@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DLG8_jU2m4vG-Cae4P5p02mgQgmC2W-f/view?usp=share_link](https://drive.google.com/file/d/1DLG8_jU2m4vG-Cae4P5p02mgQgmC2W-f/view?usp=share_link)
 
-- ⚡ Fun fact **I'm weirdest guy ever**
+- ⚡ Fun fact **I'm the weirdest guy ever**
 
 <p align="left"> <a href="https://twitter.com/nahum38106224" target="blank"><img src="https://img.shields.io/twitter/follow/nahum38106224?logo=twitter&style=for-the-badge" alt="nahum38106224" /></a> </p>
 
